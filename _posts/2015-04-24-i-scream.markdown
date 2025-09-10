@@ -3,7 +3,7 @@ title:  "introduction to kicard"
 subtitle: "But do you scream?"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "https://tse1.mm.bing.net/th/id/OIP.r1dQ6FcXw4K4Osw6-pOc7gHaE_?rs=1&pid=ImgDetMain&o=7&rm=3"
+image: "https://www.kicad.org/img/frontpage/kicad_pcbnew.png"
 date:   2015-04-24 12:12:12
 ---
 
