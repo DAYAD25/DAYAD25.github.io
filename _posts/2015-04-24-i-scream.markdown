@@ -1,7 +1,7 @@
 ---
 title:  "introduction to kicard"
 subtitle: "But do you scream?"
-author: "Wferr"
+author: "daya"
 avatar: "img/authors/wferr.png"
 image: "https://www.kicad.org/img/frontpage/kicad_pcbnew.png"
 date:   2015-04-24 12:12:12
