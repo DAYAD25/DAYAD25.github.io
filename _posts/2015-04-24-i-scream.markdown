@@ -1,6 +1,6 @@
 ---
 title:  "introduction to kicad"
-subtitle: "But do you scream?"
+subtitle: "Your gateway to the world of circuit design"
 author: "daya"
 avatar: "img/authors/wferr.png"
 image: "https://www.kicad.org/img/frontpage/kicad_pcbnew.png"
