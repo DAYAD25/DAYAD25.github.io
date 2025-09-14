@@ -1,9 +1,9 @@
 ---
 title:  "Absense of light"
 subtitle: "Only lights from space"
-author: "Wferr"
+author: "Daya"
 avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
+image: "https://share.google/images/QlN4NF6ziicFLYJfS"
 date:   2015-04-23 12:12:12
 ---
 
