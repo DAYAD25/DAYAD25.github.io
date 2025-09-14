@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Kicad"
+subtitle: "Introduction"
 author: "Daya"
 avatar: "img/authors/wferr.png"
 image: "https://share.google/images/QlN4NF6ziicFLYJfS"
