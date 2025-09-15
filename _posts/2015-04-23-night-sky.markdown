@@ -3,7 +3,7 @@ title:  "Kicad"
 subtitle: "Introduction"
 author: "Daya"
 avatar: "img/authors/wferr.png"
-image: "https://share.google/images/QlN4NF6ziicFLYJfS"
+image: https://wallpaperaccess.com/full/85859.jpg""
 date:   2015-04-23 12:12:12
 ---
 
