@@ -3,7 +3,7 @@ title:  "Planes are cool!"
 subtitle: "The Fly!"
 author: "daya"
 avatar: "https://wallpaperaccess.com/full/1809645.jpg"
-image: "img/a.jpg"
+image: "https://th.bing.com/th/id/OIP.PzMqmRgjpb3EO6vG2kK5hgHaE7?w=268&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
 date:   2015-04-20 12:12:12
 ---
 
