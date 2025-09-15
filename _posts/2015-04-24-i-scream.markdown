@@ -8,18 +8,40 @@ date:   2015-04-24 12:12:12
 ---
 
 ### kicad
-KiCad is a free, open-source software suite used for designing printed circuit boards (PCBs). It allows you to create electronic schematics and then convert them into detailed PCB layouts, ready for manufacturing.
 
-A PCB (Printed Circuit Board) is a physical board that connects electronic components using copper tracks instead of wires. It’s the backbone of all modern electronic devices—from smartphones to industrial machines.
+KiCad – Overview & Features
 
-KiCad is popular among hobbyists, students, and professionals because it offers powerful features like:
-Schematic capture
-PCB layout with 3D viewer
-Integrated tools for electrical rule checking
-Support for multi-layer boards
-It's a great tool for turning your electronic ideas into real, functioning hardware.
+KiCad is a powerful, free, and open-source Electronic Design Automation (EDA) software used for designing electronic circuit schematics and Printed Circuit Boards (PCBs). It is suitable for both hobbyists and professional engineers.
 
 
-
+Key Features of KiCad:
+1. Schematic Capture (Eeschema):
+Create and edit circuit diagrams.
+Supports hierarchical and multi-sheet schematics.
+Built-in electrical rules checker (ERC).
+2. PCB Layout Editor (Pcbnew):
+Design multi-layer PCBs (up to 32 copper layers).
+Interactive routing and differential pair routing.
+Real-time design rule checking (DRC).
+Push-and-shove router for easier trace routing.
+3. 3D Viewer:
+Visualize the PCB in 3D with component models.
+Export 3D models for enclosure design.
+4. Footprint & Symbol Libraries:
+Large built-in libraries of schematic symbols and PCB footprints.
+Custom library creation and community library support.
+5. Gerber and Manufacturing File Generation:
+Export standard Gerber files, drill files, and netlists.
+Supports industry-standard formats for PCB fabrication.
+6. BOM (Bill of Materials) Tool:
+Automatically generate BOMs for procurement.
+Customizable output formats (CSV, XML, etc.).
+7. Integrated Tools:
+CvPcb: Assign footprints to schematic symbols.
+KiCad Project Manager: Organizes and manages all project files.
+8. Scripting Support:
+Python scripting for automating design tasks and custom tools.
+9. Cross-platform Support:
+Available for Windows, Linux, and macOS.
 
 
